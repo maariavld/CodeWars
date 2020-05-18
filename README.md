@@ -1,2 +1,2 @@
 # CodeWars
-Code Wars solutions
+Code Wars C++ solutions
